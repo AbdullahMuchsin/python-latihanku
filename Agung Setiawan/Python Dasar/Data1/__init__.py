@@ -1,0 +1,1 @@
+from .matematika1 import tambah,kali,pangkat

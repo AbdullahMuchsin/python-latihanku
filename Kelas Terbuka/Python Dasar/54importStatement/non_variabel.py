@@ -1,0 +1,1 @@
+print("Ini contoh dari import tanpa variabel")

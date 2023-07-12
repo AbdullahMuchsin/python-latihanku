@@ -1,0 +1,6 @@
+{
+    "workbench.iconTheme":"vscode-icons",
+    "workbench.colorTheme": "Noctis Minimus", 
+    "editor.fontSize": 16,
+    "terminal.integrated.fontFamily": "Dejavu Sans Mono"
+}
